@@ -50,7 +50,7 @@ function sumAllItems() {
   list.innerHTML = `
     <li>
 
-    <p>  O valor total dos itens é: R$ ${formarCurrency(sumAlls)} <b> Reias </b> </p> 
+    <p>   O valor total dos itens é: R$ ${formarCurrency(sumAlls)}Reias  </p> 
     
     </li>
     
